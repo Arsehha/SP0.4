@@ -1,0 +1,1273 @@
+# Translation of Themes - Ebook Store in Russian
+# This file is distributed under the same license as the Themes - Ebook Store package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-20 12:51:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Ebook Store\n"
+
+#. Theme Name of the theme
+#: style.css inc/block-patterns/block-patterns.php:16
+#, gp-priority: high
+msgid "Ebook Store"
+msgstr "Ebook Store"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Ebook store WordPress is a theme for book lovers who are fond of book libraries and series. This theme can be used by anyone, Even if the users are writers, authors, or Book reviewers. Ebook store is completely made for Publishing House, Literary Clubs, library, author bios, content writers, conclusion writer, bibliography, and bookshop owners. It comes with a clean, modern, and responsive layout, so the users do not have to worry about anything. This Ebook store is compatible with Gutenberg. Gutenberg is perfect for building websites that have much detailed information. The home page has a full-width image and social icons. The sidebar has all your data (name, contact details), with links to your Word format and other social profiles. The Ebook store is an excellent choice for those who want to create an online store. Its professional design and customization options make it a great option for building a unique and fully-functional website. Additionally, WooCommerce support has been set up and will manage your store. So users can create an online store quickly and easily by setting up products using drag and drop functionality, the social icons widget, which allows you to add social icons to your sidebar or footer column, and Custom Google Fonts allows users to choose their favorite font from the Google fonts store instead of the default system fonts. Demo: https://www.vwthemes.net/ebook-store/"
+msgstr "Ebook store WordPress - это тема для любителей книг, которые увлекаются книжными библиотеками и сериями. Эта тема может быть использована любым пользователем, даже если он является писателем, автором или рецензентом. Ebook store полностью создана для издательств, литературных клубов, библиотек, авторов биографий, авторов контента, авторов заключений, библиографий и владельцев книжных магазинов. Он имеет чистый, современный и отзывчивый макет, поэтому пользователям не придется ни о чем беспокоиться. Этот магазин электронных книг совместим с Gutenberg. Gutenberg идеально подходит для создания сайтов, содержащих много подробной информации. На главной странице есть изображение во всю ширину сайта и социальные иконки. В боковой панели размещены все ваши данные (имя, контактная информация), а также ссылки на ваш Word-формат и другие социальные профили. Ebook store - отличный выбор для тех, кто хочет создать интернет-магазин. Профессиональный дизайн и возможности настройки делают его отличным вариантом для создания уникального и полнофункционального сайта. Кроме того, настроена поддержка WooCommerce, которая будет управлять вашим магазином. Таким образом, пользователи могут быстро и легко создать интернет-магазин, настраивая товары с помощью функции перетаскивания, виджет социальных иконок, который позволяет добавлять социальные иконки в боковую панель или колонку нижнего колонтитула, а Custom Google Fonts позволяет пользователям выбрать свой любимый шрифт из магазина шрифтов Google вместо системных шрифтов по умолчанию. Демонстрация: https://www.vwthemes.net/ebook-store/"
+
+#: inc/getstart/getstart.php:204
+msgid "Click on Patterns Tab >> Click on Theme Name >> Click on Sections >> Publish."
+msgstr "Нажмите вкладку Паттерны >> нажмите Название темы >> нажмите Разделы >> Опубликовать."
+
+#: inc/getstart/getstart.php:199
+msgid "Click on Below Add new page button >> Click on \"+\" Icon."
+msgstr "Нажмите ниже кнопку Добавить страницу >> Нажмите на \"+\" значка."
+
+#: inc/getstart/getstart.php:419
+msgid "3"
+msgstr "3"
+
+#: inc/getstart/getstart.php:361
+msgid "Premium Theme Information"
+msgstr "Информация о премиум теме"
+
+#: inc/getstart/getstart.php:366
+msgid "Live Demo"
+msgstr "Демонстрация в реальном времени"
+
+#: inc/getstart/getstart.php:367
+msgid "Buy Pro"
+msgstr "Купить Pro"
+
+#: inc/getstart/getstart.php:368
+msgid "Pro Documentation"
+msgstr "Документация Pro"
+
+#: inc/getstart/getstart.php:375
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/getstart/getstart.php:382
+msgid "Free Themes"
+msgstr "Бесплатные темы"
+
+#: inc/getstart/getstart.php:383
+msgid "Premium Themes"
+msgstr "Премиум темы"
+
+#: inc/getstart/getstart.php:388
+msgid "Theme Customization"
+msgstr "Настройка темы"
+
+#: inc/getstart/getstart.php:393
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#: inc/getstart/getstart.php:398
+msgid "Logo Upload"
+msgstr "Загрузка логотипа"
+
+#: inc/getstart/getstart.php:413
+msgid "Number of Slides"
+msgstr "Количество слайдов"
+
+#: inc/getstart/getstart.php:414
+msgid "4"
+msgstr "4"
+
+#: inc/getstart/getstart.php:415
+msgid "Unlimited"
+msgstr "Неограниченно"
+
+#: inc/getstart/getstart.php:418
+msgid "Template Pages"
+msgstr "Шаблон страниц"
+
+#: inc/getstart/getstart.php:420
+msgid "6"
+msgstr "6"
+
+#: inc/getstart/getstart.php:423
+msgid "Home Page Template"
+msgstr "Шаблон главной страницы"
+
+#: inc/getstart/getstart.php:424 inc/getstart/getstart.php:425
+#: inc/getstart/getstart.php:435
+msgid "1"
+msgstr "1"
+
+#: inc/getstart/getstart.php:428
+msgid "Theme sections"
+msgstr "Разделы темы"
+
+#: inc/getstart/getstart.php:429
+msgid "2"
+msgstr "2"
+
+#: inc/getstart/getstart.php:438
+msgid "Blog Templates & Layout"
+msgstr "Шаблоны и макеты блога"
+
+#: inc/getstart/getstart.php:440
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3 (во всю ширину/левая/правая область виджетов)"
+
+#: inc/getstart/getstart.php:443
+msgid "Page Templates & Layout"
+msgstr "Шаблон и макет страницы"
+
+#: inc/getstart/getstart.php:445
+msgid "2(Left/Right Sidebar)"
+msgstr "2 (левая/правая область виджетов)"
+
+#: inc/getstart/getstart.php:448
+msgid "Color Pallete For Particular Sections"
+msgstr "Цветовая палитра для отдельных разделов"
+
+#: inc/getstart/getstart.php:453
+msgid "Global Color Option"
+msgstr "Настройка глобального цвета"
+
+#: inc/getstart/getstart.php:458
+msgid "Section Reordering"
+msgstr "Переупорядочивание разделов"
+
+#: inc/getstart/getstart.php:463
+msgid "Demo Importer"
+msgstr "Импортер демонстраций"
+
+#: inc/getstart/getstart.php:468
+msgid "Allow To Set Site Title, Tagline, Logo"
+msgstr "Разрешить установку названия, краткого описания, логотипа сайта"
+
+#: inc/getstart/getstart.php:473
+msgid "Enable Disable Options On All Sections, Logo"
+msgstr "Выключить/отключить настройки для всех разделов, логотипа"
+
+#: inc/getstart/getstart.php:478
+msgid "Full Documentation"
+msgstr "Полная документация"
+
+#: inc/getstart/getstart.php:483
+msgid "Latest WordPress Compatibility"
+msgstr "Совместимость с последними версиями WordPress"
+
+#: inc/getstart/getstart.php:493
+msgid "Support 3rd Party Plugins"
+msgstr "Поддержка плагинов сторонних разработчиков"
+
+#: inc/getstart/getstart.php:498
+msgid "Secure and Optimized Code"
+msgstr "Безопасный и оптимизированый код"
+
+#: inc/getstart/getstart.php:503
+msgid "Exclusive Functionalities"
+msgstr "Эксклюзивные функции"
+
+#: inc/getstart/getstart.php:508
+msgid "Section Enable / Disable"
+msgstr "Раздел вкл/откл"
+
+#: inc/getstart/getstart.php:513
+msgid "Section Google Font Choices"
+msgstr "Раздел Выбор шрифтов Google"
+
+#: inc/getstart/getstart.php:518
+msgid "Gallery"
+msgstr "Галерея"
+
+#: inc/getstart/getstart.php:523
+msgid "Simple & Mega Menu Option"
+msgstr "Настройки отдельного и мега меню"
+
+#: inc/getstart/getstart.php:528
+msgid "Support to add custom CSS / JS "
+msgstr "Поддержка добавления пользовательских CSS / JS "
+
+#: inc/getstart/getstart.php:533
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: inc/getstart/getstart.php:543
+msgid "Premium Membership"
+msgstr "Премиум членство"
+
+#: inc/getstart/getstart.php:548
+msgid "Budget Friendly Value"
+msgstr "Бюджетная дружеская стоимость"
+
+#: inc/getstart/getstart.php:553
+msgid "Priority Error Fixing"
+msgstr "Исправление приоритетной ошибки"
+
+#: inc/getstart/getstart.php:558
+msgid "Custom Feature Addition"
+msgstr "Добавление пользовательской функции"
+
+#: inc/getstart/getstart.php:563
+msgid "All Access Theme Pass"
+msgstr "Все темы доступны для перевода"
+
+#: inc/getstart/getstart.php:568
+msgid "Seamless Customer Support"
+msgstr "Полная поддержка клиентов"
+
+#: inc/getstart/getstart.php:586
+msgid "To gain access to extra theme options and more interesting features, upgrade to pro version."
+msgstr "Чтобы получить доступ к дополнительным параметрам темы и более интересным свойствами, выполните обновление до версии pro."
+
+#: inc/getstart/getstart.php:588
+msgid "Get Pro"
+msgstr "Получить Pro"
+
+#: inc/getstart/getstart.php:592
+msgid "Pre-purchase Queries"
+msgstr "Предпродажные вопросы"
+
+#: inc/getstart/getstart.php:593
+msgid "If you have any pre-sale query, we are prepared to resolve it."
+msgstr "Если у вас есть предпродажный вопрос, мы готовы на него ответить."
+
+#: inc/getstart/getstart.php:595
+msgid "Question"
+msgstr "Вопрос"
+
+#: inc/getstart/getstart.php:599
+msgid "Child Theme"
+msgstr "Дочерняя тема"
+
+#: inc/getstart/getstart.php:600
+msgid "For theme file customizations, make modifications in the child theme and not in the main theme file."
+msgstr "Для настроек файла темы внесите изменения в дочернюю тему, а не в файл основной темы."
+
+#: inc/getstart/getstart.php:602
+msgid "About Child Theme"
+msgstr "О дочерней теме"
+
+#: inc/getstart/getstart.php:607
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+#: inc/getstart/getstart.php:608
+msgid "We have gathered top most, frequently asked questions and answered them for your easy understanding. We will list down more as we get new challenging queries. Check back often."
+msgstr "Мы собрали самые популярные, часто задаваемые вопросы и ответили на них, для того что бы вы лучше понимали. Мы будем добавлять больше ответов, поскольку у нас появятся новые интересные вопросы. Проверяйте их чаще."
+
+#: inc/getstart/getstart.php:610
+msgid "View FAQ"
+msgstr "Посмотрите FAQ"
+
+#: inc/getstart/getstart.php:615
+msgid "Support Queries"
+msgstr "Запросы в поддержку"
+
+#: inc/getstart/getstart.php:616
+msgid "If you have any queries after purchase, you can contact us. We are eveready to help you out."
+msgstr "Если у вас есть вопросы после покупки, вы можете связаться с нами. Мы всегда готовы помочь вам."
+
+#: inc/getstart/getstart.php:618
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: inc/getstart/getstart.php:430
+msgid "14"
+msgstr "14"
+
+#: inc/getstart/getstart.php:403
+msgid "Social Media Links"
+msgstr "Ссылки на соцсети"
+
+#: inc/getstart/getstart.php:433
+msgid "Contact us Page Template"
+msgstr "Шаблон страницы Свяжитесь с нами"
+
+#: inc/getstart/getstart.php:488
+msgid "Woo-Commerce Compatibility"
+msgstr "Совместимость с WooCommerce"
+
+#: inc/getstart/getstart.php:538
+msgid "Custom Background, Colors, Header, Logo & Menu"
+msgstr "Пользовательский фон, цвета, заголовок, логотип и меню"
+
+#: inc/getstart/getstart.php:364
+msgid "This bookstore WordPress theme is clean, reliable, modern and feature-full with great use for book stores, eBook portals, online book sellers, authors, journalists, writers, editors, publishers, libraries, reading clubs, online music, movies and game selling website and all the literature lovers. It is a one-stop-solution for establishing a performance efficient website for all books and reading related businesses. It has all the facility to list your books whether you deal with kids’ sound and story books or literature books for adults. It has sections cascaded to form a continuity to never leave the visitors idle. This bookstore WordPress theme has a fluid layout making it fully responsive. It is cross-browser compatible and translation ready. It is coded from scratch to make it bug-free. It is fearlessly compatible with third party plugins to give an extra edge to your website with the added plugin."
+msgstr "Эта чистая, надежная, современная и многофункциональная тема WordPress для книжных магазинов, порталов электронных книг, онлайн-продавцов книг, авторов, журналистов, писателей, редакторов, издателей, библиотек, читательских клубов, сайтов по продаже музыки, фильмов и игр, а также для всех любителей литературы. Это универсальное решение для создания эффективного веб-сайта для всех видов бизнеса, связанного с книгами и чтением. Здесь есть все возможности для размещения информации о ваших книгах, независимо от того, занимаетесь ли вы детской звуковой и художественной литературой или литературой для взрослых. Разделы расположены каскадом, что позволяет посетителям не задерживаться на сайте. Эта тема WordPress для книжного магазина имеет плавный макет, что делает ее полностью отзывчивой. Она совместима с кроссбраузерными браузерами и готова к переводу. Она создана с нуля, чтобы не допустить ошибок. Она совместима с плагинами сторонних разработчиков, что позволяет придать сайту дополнительную привлекательность с помощью дополнительного плагина."
+
+#: inc/getstart/getstart.php:585
+msgid "Pro Version"
+msgstr "Версия Pro"
+
+#: inc/getstart/getstart.php:201
+msgid "Add New Page"
+msgstr "Добавить страницу"
+
+#: functions.php:325
+msgid "DOCUMENTATION"
+msgstr "ДОКУМЕНТАЦИЯ"
+
+#: functions.php:326
+msgid "DOCS"
+msgstr "Документация"
+
+#: inc/getstart/getstart.php:33
+msgid "Use Coupon"
+msgstr "Использовать купон"
+
+#: inc/getstart/getstart.php:33
+msgid "vwpro20"
+msgstr "vwpro20"
+
+#: inc/getstart/getstart.php:43
+msgid "Setup With Block Pattern"
+msgstr "Установка с паттерном блока"
+
+#: inc/getstart/getstart.php:47
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/getstart/getstart.php:196
+msgid "Block Patterns"
+msgstr "Паттерны блока"
+
+#: inc/getstart/getstart.php:198
+msgid "Follow the below instructions to setup Home page with Block Patterns."
+msgstr "Следуйте приведённым ниже инструкциям, чтобы установить главную страницу с паттерном блока."
+
+#: footer.php:61
+msgid "By VWThemes"
+msgstr "От VWThemes"
+
+#: functions.php:49
+msgid "VIEW DEMO"
+msgstr "ПРОСМОТР ДЕМО"
+
+#: functions.php:176
+msgid "https://www.vwthemes.com/faqs/"
+msgstr "https://www.vwthemes.com/faqs/"
+
+#: functions.php:178
+msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+msgstr "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+
+#: functions.php:177
+msgid "https://www.vwthemes.com/contact/"
+msgstr "https://www.vwthemes.com/contact/"
+
+#: functions.php:173
+msgid "https://www.vwthemes.com/themes/ebook-store-wordpress-theme/"
+msgstr "https://www.vwthemes.com/themes/ebook-store-wordpress-theme/"
+
+#: functions.php:174
+msgid "https://www.vwthemes.net/ebook-store/"
+msgstr "https://www.vwthemes.net/ebook-store/"
+
+#: functions.php:183
+msgid "Ebook Store WordPress Theme"
+msgstr "Тема Ebook Store WordPress"
+
+#: inc/block-patterns/block-patterns.php:27
+msgid "Slider Section"
+msgstr "Раздел Слайдер"
+
+#: inc/block-patterns/block-patterns.php:36
+msgid "Banner-Section"
+msgstr "Раздел Баннер"
+
+#: inc/getstart/getstart.php:32
+msgid "Buy Ebook Store at 20% Discount"
+msgstr "Купите Ebook Store со скидкой 20%"
+
+#: functions.php:175
+msgid "https://preview.vwthemesdemo.com/docs/vw-ebook-store-pro/"
+msgstr "https://preview.vwthemesdemo.com/docs/vw-ebook-store-pro/"
+
+#: inc/getstart/getstart.php:35 inc/getstart/getstart.php:575
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: inc/getstart/getstart.php:46
+msgid "Get Premium"
+msgstr "Получить Премиум"
+
+#: inc/getstart/getstart.php:145 inc/getstart/getstart.php:242
+#: inc/getstart/getstart.php:312
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: functions.php:50 functions.php:318
+msgid "UPGRADE PRO"
+msgstr "Обновиться до Pro"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: inc/getstart/getstart.php:25
+msgid "All our WordPress themes are modern, minimalist, 100% responsive, seo-friendly,feature-rich, and multipurpose that best suit designers, bloggers and other professionals who are working in the creative fields."
+msgstr "Все наши WordPress темы являются современными, минималистичными, 100% адаптивными, подготовлеными к seo, с богатым функционалом и многофункциональными, которые идеально подойдут дизайнерам, блоггерам и другим профессионалам, которые работают в области творчества."
+
+#: inc/getstart/getstart.php:42
+msgid "Setup With Customizer"
+msgstr "Установка с помощью Настройки темы"
+
+#: inc/getstart/getstart.php:44
+msgid "Setup With Gutunberg Block"
+msgstr "Установка с блоком Gutunberg"
+
+#: inc/getstart/getstart.php:45
+msgid "Woocommerce Product Addons"
+msgstr "Дополнения к товару Woocommerce"
+
+#: inc/getstart/getstart.php:69 inc/getstart/getstart.php:186
+msgid "Skip"
+msgstr "Пропустить"
+
+#: inc/getstart/getstart.php:78
+msgid "Lite Theme Information"
+msgstr "Информация об облегченной теме"
+
+#: inc/getstart/getstart.php:83
+msgid "If you need any assistance regarding setting up and configuring the Theme, our documentation is there."
+msgstr "Если вам нужна помощь в установке и настройке темы, тут наша документация."
+
+#: inc/getstart/getstart.php:85 inc/getstart/getstart.php:167
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/getstart/getstart.php:88
+msgid "Theme Customizer"
+msgstr "Настройщик темы"
+
+#: inc/getstart/getstart.php:89
+msgid "To begin customizing your website, start by clicking \"Customize\"."
+msgstr "Чтобы начать настройку своего сайта, начните с нажатия «Настроить»."
+
+#: inc/getstart/getstart.php:91
+msgid "Customizing"
+msgstr "Индивидуализация"
+
+#: inc/getstart/getstart.php:94
+msgid "Having Trouble, Need Support?"
+msgstr "Проблемы, нужна в поддержка?"
+
+#: inc/getstart/getstart.php:95
+msgid "Our dedicated team is well prepared to help you out in case of queries and doubts regarding our theme."
+msgstr "Наша целеустремленная команда хорошо подготовлена, чтобы помочь вам в случае вопросов и сомнений относительно нашей темы."
+
+#: inc/getstart/getstart.php:97
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/getstart/getstart.php:100
+msgid "Reviews & Testimonials"
+msgstr "Обзоры и отзывы"
+
+#: inc/getstart/getstart.php:101
+msgid "All the features and aspects of this WordPress Theme are phenomenal. I'd recommend this theme to all."
+msgstr "Все свойства и аспекты этой WordPress темы феноменальны. Я бы рекомендовал эту тему всем."
+
+#: inc/getstart/getstart.php:103
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: inc/getstart/getstart.php:106 inc/getstart/getstart.php:210
+#: inc/getstart/getstart.php:280
+msgid "Link to customizer"
+msgstr "Ссылка на настройку темы"
+
+#: inc/getstart/getstart.php:136 inc/getstart/getstart.php:233
+#: inc/getstart/getstart.php:303
+msgid "Post settings"
+msgstr "Настройки записи"
+
+#: inc/getstart/getstart.php:127 inc/getstart/getstart.php:223
+#: inc/getstart/getstart.php:293
+msgid "Menus"
+msgstr "Меню"
+
+#: inc/getstart/getstart.php:130 inc/getstart/getstart.php:245
+#: inc/getstart/getstart.php:315
+msgid "Footer Widget"
+msgstr "Виджет подвала"
+
+#: inc/getstart/getstart.php:155
+msgid "How to set up Home Page Template"
+msgstr "Как настроить шаблон главной страницы"
+
+#: inc/getstart/getstart.php:157
+msgid "Follow these instructions to setup Home page."
+msgstr "Следуйте этим инструкциям, чтобы установить главную страницу."
+
+#: inc/getstart/getstart.php:159
+msgid "1. Create a new page :"
+msgstr "1. Создайте новую страницу:"
+
+#: inc/getstart/getstart.php:159 inc/getstart/getstart.php:163
+msgid " Go to "
+msgstr " Перейти "
+
+#: inc/getstart/getstart.php:160
+msgid " Dashboard >> Pages >> Add New Page"
+msgstr " Консоль >> Страницы >> Добавить новую страницу"
+
+#: inc/getstart/getstart.php:161
+msgid "Name it as \"Home\" then select the template \"Custom Home Page\"."
+msgstr "Назовите как \"Главная\", затем выберите шаблон \"Пользовательская главная страница\"."
+
+#: inc/getstart/getstart.php:163
+msgid "2. Set the front page:"
+msgstr "2. Установите главную страницу:"
+
+#: inc/getstart/getstart.php:164
+msgid " Settings >> Reading "
+msgstr " Настройки >> Чтение "
+
+#: inc/getstart/getstart.php:165
+msgid "Select the option of Static Page, now select the page you created to be the homepage, while another page to be your default page."
+msgstr "Выберите вариант Статическая страница, теперь выберите страницу, которую вы создали в качестве главной страницы, а другую страницу — в качестве страницы по умолчанию."
+
+#: inc/getstart/getstart.php:274
+msgid "Gutunberg Blocks"
+msgstr "Блоки Gutenberg"
+
+#: inc/getstart/getstart.php:277
+msgid "Ibtana Settings"
+msgstr "Настройки Ibtana"
+
+#: inc/getstart/getstart.php:343
+msgid "Woocommerce Products Blocks"
+msgstr "Блоки товаров Woocommerce"
+
+#: inc/getstart/getstart.php:346
+msgid "Follow the below instructions to setup Products Templates."
+msgstr "Следуйте приведённым ниже инструкциям, чтобы установить шаблоны товара."
+
+#: inc/getstart/getstart.php:347
+msgid "1. First you need to activate these plugins"
+msgstr "1. Сначала вам нужно активировать эти плагины"
+
+#: inc/getstart/getstart.php:348
+msgid "1. Ibtana - WordPress Website Builder "
+msgstr "1. Ibtana - WordPress Website Builder "
+
+#: inc/getstart/getstart.php:349
+msgid "2. Ibtana - Ecommerce Product Addons."
+msgstr "2. Ibtana - Ecommerce Product Addons."
+
+#: inc/getstart/getstart.php:350
+msgid "3. Woocommerce"
+msgstr "3. WooCommerce"
+
+#: inc/getstart/getstart.php:351
+msgid "2. Go To Dashboard >> Ibtana Settings >> Woocommerce Templates"
+msgstr "2. Перейдите в консоль >> Настройки Ibtana >> Шаблоны Woocommerce"
+
+#: inc/getstart/getstart.php:353
+msgid "Woocommerce Templates"
+msgstr "Шаблоны Woocommerce"
+
+#: inc/getstart/getstart.php:355
+msgid "You can create a template as you like."
+msgstr "Вы можете создать шаблон, как вам нравится."
+
+#: inc/getstart/plugin-activation.php:40 inc/tgm/tgm.php:17
+msgid "Ibtana - WordPress Website Builder"
+msgstr "Ibtana - WordPress Website Builder"
+
+#: inc/getstart/plugin-activation.php:43
+msgid "It is recommended that you install the Ibtana - WordPress Website Builder plugin to show advance blocks and templates on pages"
+msgstr "Рекомендуется установить плагин Ibtana - WordPress Website Builder для отображения на страницах продвинутых блоков и шаблонов"
+
+#: inc/getstart/plugin-activation.php:53 inc/getstart/plugin-activation.php:248
+msgid "Installing"
+msgstr "Установка"
+
+#: inc/getstart/plugin-activation.php:54 inc/getstart/plugin-activation.php:249
+msgid "Activating"
+msgstr "Активация"
+
+#: inc/getstart/plugin-activation.php:55 inc/getstart/plugin-activation.php:250
+msgid "Error"
+msgstr "Ошибка"
+
+#: inc/getstart/plugin-activation.php:129
+#: inc/getstart/plugin-activation.php:324
+msgid "Install %s Now"
+msgstr "Установить %s сейчас"
+
+#: inc/getstart/plugin-activation.php:131
+#: inc/getstart/plugin-activation.php:326
+msgid "Install & Activate"
+msgstr "Установить и активировать"
+
+#: inc/getstart/plugin-activation.php:148
+#: inc/getstart/plugin-activation.php:343
+msgid "Activate %s Now"
+msgstr "Активировать %s сейчас"
+
+#: inc/getstart/plugin-activation.php:150
+#: inc/getstart/plugin-activation.php:345
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/getstart/plugin-activation.php:153
+#: inc/getstart/plugin-activation.php:348
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активный"
+
+#: inc/getstart/plugin-activation.php:235 inc/tgm/tgm.php:24
+msgid "Ibtana - Ecommerce Product Addons"
+msgstr "Ibtana - Ecommerce Product Addons"
+
+#: inc/getstart/plugin-activation.php:238
+msgid "It is recommended that you install the Ibtana - Ecommerce Product Addons plugin to show advance Products blocks and templates on pages"
+msgstr "Рекомендуется установить плагин Ibtana - Ecommerce Product Addons, чтобы на страницах отображались блоки и шаблоны \"Товары\""
+
+#: template-parts/header/navigation.php:16
+msgid "Open Button"
+msgstr "Кнопка Открыть"
+
+#: template-parts/header/navigation.php:19
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: template-parts/header/navigation.php:29
+msgid "Close Button"
+msgstr "Кнопка Закрыть"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующих плагинов: %1$s."
+msgstr[2] "Эта тема требует следующих плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "В пакете удаленного плагина нет папки с нужным ярлыком и переименование не помогло."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленного плагина состоит из нескольких файлов, но файлы не упакованы в папку."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Миним. необходимая версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: footer.php:68 footer.php:70 footer.php:72
+msgid "Scroll Up"
+msgstr "Прокрутить вверх"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: functions.php:48
+msgid "GET STARTED"
+msgstr "НАЧАЛО РАБОТЫ"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: functions.php:218
+msgid "Footer Navigation 1"
+msgstr "Навигация в подвале 1"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: functions.php:219
+msgid "Appears on footer 1"
+msgstr "Появится в подвале 1"
+
+#: functions.php:228
+msgid "Footer Navigation 2"
+msgstr "Навигация в подвале 2"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: functions.php:229
+msgid "Appears on footer 2"
+msgstr "Появится в подвале 2"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: functions.php:238
+msgid "Footer Navigation 3"
+msgstr "Навигация в подвале 3"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: functions.php:239
+msgid "Appears on footer 3"
+msgstr "Появится в подвале 3"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: functions.php:248
+msgid "Footer Navigation 4"
+msgstr "Навигация в подвале 4"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: functions.php:249
+msgid "Appears on footer 4"
+msgstr "Появится в подвале 4"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm.php:31
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: inc/getstart/getstart.php:114 inc/getstart/getstart.php:218
+#: inc/getstart/getstart.php:288 inc/getstart/getstart.php:408
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/getstart/getstart.php:139 inc/getstart/getstart.php:236
+#: inc/getstart/getstart.php:306
+msgid "WooCommerce Layout"
+msgstr "Макет WooCommerce"
+
+#: comments.php:78
+msgid "Post Comment"
+msgstr "Отправить комментарий"
+
+#: functions.php:259
+msgid "Appears on topbar"
+msgstr "Появится на верхней панели"
+
+#: page-template/custom-home-page.php:70
+msgid "Next"
+msgstr "Далее"
+
+#: template-parts/header/content-header.php:18
+msgid "My Account"
+msgstr "Моя учётная запись"
+
+#: inc/tgm/tgm.php:10
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#: functions.php:130
+msgid "www.example.com"
+msgstr "www.example.com"
+
+#: template-parts/header/search-bar.php:89
+msgid "shopping cart"
+msgstr "корзина"
+
+#: functions.php:149
+msgid "Select Banner Page"
+msgstr "Выберите страницу баннера"
+
+#: functions.php:258
+msgid "Social Icon"
+msgstr "Значок соцсети"
+
+#. Template Name of the theme
+msgid "Custom Home"
+msgstr "Пользовательская главная страница"
+
+#: inc/getstart/getstart.php:119
+msgid "Topbar Settings"
+msgstr "Настройки верхней панели"
+
+#: functions.php:47
+msgid "Thank you for choosing Ebook Store Theme. Would like to have you on our Welcome page so that you can reap all the benefits of our Ebook Store Theme."
+msgstr "Спасибо, что вы выбрали тему Ebook Store. Будем рады, если вы посетите нашу страницу приветствия, чтобы вы могли воспользоваться всеми преимуществами нашей темы Ebook Store."
+
+#: functions.php:102
+msgid "Add Discount Text"
+msgstr "Добавьте текст скидки"
+
+#: functions.php:171
+msgid "https://wordpress.org/support/theme/ebook-store/"
+msgstr "https://wordpress.org/support/theme/ebook-store/"
+
+#: functions.php:172
+msgid "https://wordpress.org/support/theme/ebook-store/reviews"
+msgstr "https://wordpress.org/support/theme/ebook-store/reviews"
+
+#: functions.php:317
+msgid "Ebook Store PRO"
+msgstr "Ebook Store PRO"
+
+#: inc/getstart/getstart.php:5
+msgid "About Ebook Store"
+msgstr "О Ebook Store"
+
+#: inc/getstart/getstart.php:24
+msgid "Welcome to Ebook Store Theme"
+msgstr "Добро пожаловать в тему Ebook Store"
+
+#: inc/getstart/getstart.php:167
+msgid " Once you are done with this, then follow the"
+msgstr " Как только вы закончите с этим, сделайте следующее"
+
+#: page-template/custom-home-page.php:50 page-template/custom-home-page.php:151
+msgid "READ MORE"
+msgstr "ЧИТАТЬ ДАЛЕЕ"
+
+#: template-parts/header/content-header.php:23
+msgid "Help"
+msgstr "Помощь"
+
+#: inc/getstart/getstart.php:80
+msgid "Ebook store WordPress is a theme for book lovers who are fond of book libraries and series. This theme can be used by anyone, Even if the users are writers, authors, or Book reviewers. Ebook store is completely made for Publishing House, Literary Clubs, and bookshop owners. It comes with a clean, modern, and responsive layout, so the users do not have to worry about anything. This Ebook store is compatible with Gutenberg. Gutenberg is perfect for building websites that have much detailed information. The home page has a full-width image and social icons. The sidebar has all your data (name, contact details), with links to your Word format and other social profiles. The Ebook store is an excellent choice for those who want to create an online store. Its professional design and customization options make it a great option for building a unique and fully-functional website. Additionally, WooCommerce support has been set up and will manage your store. So users can create an online store quickly and easily by setting up products using drag and drop functionality, the social icons widget, which allows you to add social icons to your sidebar or footer column, and Custom Google Fonts allows users to choose their favorite font from the Google fonts store instead of the default system fonts"
+msgstr "Ebook store WordPress - это тема для любителей книг, которые увлекаются книжными библиотеками и сериями. Эта тема может быть использована любым пользователем, даже если он является писателем, автором или рецензентом. Тема Ebook store полностью предназначена для издательств, литературных клубов и книжных магазинов. Он имеет чистый, современный и отзывчивый макет, поэтому пользователям не придется ни о чем беспокоиться. Этот магазин электронных книг совместим с Gutenberg. Gutenberg идеально подходит для создания сайтов, содержащих много подробной информации. На главной странице есть изображение во всю ширину сайта и социальные иконки. В боковой панели размещены все ваши данные (имя, контактная информация), а также ссылки на ваш Word-формат и другие социальные профили. Ebook store - отличный выбор для тех, кто хочет создать интернет-магазин. Профессиональный дизайн и возможности настройки делают его отличным вариантом для создания уникального и полнофункционального сайта. Кроме того, настроена поддержка WooCommerce, которая будет управлять вашим магазином. Таким образом, пользователи могут быстро и легко создать интернет-магазин, настраивая товары с помощью функции перетаскивания, виджет социальных иконок, который позволяет добавлять социальные иконки в боковую панель или колонку нижнего колонтитула, а функция Custom Google Fonts позволяет пользователям выбирать любимый шрифт из магазина шрифтов Google вместо системных шрифтов по умолчанию."
+
+#: functions.php:159
+msgid "Select Product Page"
+msgstr "Выберите страницу товара"
+
+#: functions.php:170
+msgid "https://preview.vwthemesdemo.com/docs/free-ebook-store/"
+msgstr "https://preview.vwthemesdemo.com/docs/free-ebook-store/"
+
+#: page-template/custom-home-page.php:66
+msgid "Previous"
+msgstr "Назад"
+
+#: inc/getstart/getstart.php:148 inc/getstart/getstart.php:227
+#: inc/getstart/getstart.php:297
+msgid "Footer Text"
+msgstr "Текст в подвале"
+
+#: inc/getstart/getstart.php:82
+msgid "Theme Documentation"
+msgstr "Документация к теме"
+
+#: inc/getstart/getstart.php:111 inc/getstart/getstart.php:215
+#: inc/getstart/getstart.php:285
+msgid "Upload your logo"
+msgstr "Загрузить логотип"
+
+#: functions.php:138 inc/getstart/getstart.php:122
+msgid "Banner Section"
+msgstr "Раздел баннера"
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Для этой темы рекомендуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы рекомендуются следующие плагины: %1$s."
+msgstr[2] "Для этой темы рекомендуются следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий требуемый плагин в настоящее время не активен: %1$s."
+msgstr[1] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+msgstr[2] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующих рекомендуемых плагина в настоящее время неактивны: %1$s."
+msgstr[2] "Следующих рекомендуемых плагина в настоящее время неактивны: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующих плагина были успешно активированы:"
+msgstr[2] "Следующих плагинов были успешно активированы:"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующий плагин до последней версии: %1$s."
+msgstr[1] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующих плагина до последней версии: %1$s."
+msgstr[2] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующих плагинов до последней версии: %1$s."
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины успешно установлены и активированы. %1$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к админу этого сайта."
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступны обновлений <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: comments.php:77
+msgid "Leave a Reply"
+msgstr "Добавить комментарий"
+
+#: functions.php:115
+msgid "Add Sale Text"
+msgstr "Добавить текст продажи"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "VWthemes"
+msgstr "VWthemes"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.vwthemes.com"
+msgstr "https://www.vwthemes.com"
+
+#. Theme URI of the theme
+#: style.css functions.php:179
+#, gp-priority: low
+msgid "https://www.vwthemes.com/themes/free-ebook-wordpress-theme/"
+msgstr "https://www.vwthemes.com/themes/free-ebook-wordpress-theme/"
